@@ -1,3 +1,3 @@
-module github.com/qdm12/gluetun-servers
+module github.com/budsonjelmont/gluetun-servers
 
 go 1.25.0
